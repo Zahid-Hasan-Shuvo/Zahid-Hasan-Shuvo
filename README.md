@@ -4,6 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zahid-Hasan-Shuvo&show_icons=true&theme=radical)
 
+
 💡 My Languages And Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -19,7 +20,8 @@
 
 
 
- ## Connect with me:
+
+ 📌 Connect with me:
  
 [<img align="left"  width="22px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zahid-Hasan-Shuvo) 
 [<img align="left"  width="22px"  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zahid-hasan-6a5315214/) 
