@@ -14,4 +14,4 @@
 
 
 
-![javascript](   align="left"  width="22px" https://user-images.githubusercontent.com/60399978/122859828-72a85680-d33e-11eb-98d6-1f76e896d67b.png)
+
