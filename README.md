@@ -32,8 +32,3 @@
 [<img align="left"  width="22px"  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/zhshuvo6) 
 [<img align="left"  width="22px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/zhshuvoig) [<img align="left"  width="22px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/zhshuvotw) 
 [<img align="left"  width="22px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='mail.google' height='40'>](mailto:shuvo.cse6.bu@gmail.com) 
-
-
-
-
-
