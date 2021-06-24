@@ -30,6 +30,7 @@
 [<img align="left"  width="22px"  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zahid-hasan-6a5315214) 
 [<img align="left"  width="22px"  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/zhshuvo6) 
 [<img align="left"  width="22px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/zhshuvoig) [<img align="left"  width="22px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/zhshuvotw) 
+[<img align="left"  width="22px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail.svg' alt='mail' height='40'>](https://mail.google.com/mail/u/0/#inbox) 
 
 
 
