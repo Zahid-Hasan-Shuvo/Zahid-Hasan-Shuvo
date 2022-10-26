@@ -1,9 +1,10 @@
 ###  OMGGG! You are here! Welcome to my personal code library! I'm Zahid Hasan, a Full Stack Web Developer. I am the one who can turn a blank page into a fully working website!
 
 📊 My Github Stats :
+
 <p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zahid-Hasan-Shuvo&show_icons=true&theme=radical)
-<img align='left' width='47%' height='250px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anichu&layout=compact"/>
+<img align='left' width='47%' height='250px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahid-Hasan-Shuvo&layout=compact"/>
 </p>
 
 
