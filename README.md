@@ -1,5 +1,5 @@
 ###  OMGGG! You are here! Welcome to my personal code library! I'm Zahid Hasan, a Full Stack Web Developer. I am the one who can turn a blank page into a fully working website!
-https://raw.githubusercontent.com/JubayerJoy/jubayerjoy/master/img/hero.png
+
 
 📊 My Github Stats :
 
