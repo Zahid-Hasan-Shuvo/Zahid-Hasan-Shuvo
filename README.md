@@ -1,5 +1,4 @@
 
-[![MasterHead](https://freeimage.host/i/JzfaBwb)]
 ###  OMGGG! You are here! Welcome to my code library! I'm Zahid Hasan, a Full Stack Web Developer. I am the one who can turn a blank page into a fully working website! <br>
 
 <br>
