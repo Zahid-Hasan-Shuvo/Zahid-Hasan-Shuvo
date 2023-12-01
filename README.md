@@ -21,7 +21,7 @@
 
 **`Connect with me:`**
 
-[![Twitter](https://img.shields.io/badge/Twitter-zhshuvotw-blue?style=flat&logo=twitter)](https://twitter.com/)
+[![Twitter](https://img.shields.io/badge/Twitter--blue?style=flat&logo=twitter)](https://twitter.com/zhshuvotw)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zahid-hasan-6a5315214-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zahid-hasan-6a5315214/)
 [![Facebook](https://img.shields.io/badge/Facebook-zhshuvo6-blue?style=flat&logo=facebook)](https://facebook.com/zhshuvo6)
 [![Instagram](https://img.shields.io/badge/Instagram-zhshuvotw-blue?style=flat&logo=instagram)](https://instagram.com/zhshuvotw)
