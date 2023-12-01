@@ -2,7 +2,7 @@
 
 **`MERN stack Devoloper`**
 
-### I'm Zahid Hasan, a MERN Stack Web Developer. I am the one who can turn a blank page into a fully working website! Experienced full-stack developer with over a year in JavaScript and Node.js, specializing in building, maintaining, and deploying single-page and e-commerce applications. Swift tech adaptation and a relentless passion for continuous learning define my approach. <br>
+ I'm the one who can turn a blank page into a fully working website! Experienced full-stack developer with over a year in JavaScript and Node.js, specializing in building, maintaining, and deploying single-page and e-commerce applications. Swift tech adaptation and a relentless passion for continuous learning define my approach.
 
 <br>
 
