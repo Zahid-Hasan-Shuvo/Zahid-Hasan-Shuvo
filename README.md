@@ -2,7 +2,7 @@
 
 **`MERN stack Devoloper`**
 
- I'm the one who can turn a blank page into a fully working website! Experienced full-stack developer with over a year in JavaScript and Node.js, specializing in building, maintaining, and deploying single-page and e-commerce applications. Swift tech adaptation and a relentless passion for continuous learning define my approach.
+MERN-Stack Developer with a year's expertise in JavaScript and Node.js. Specialized in dynamic single-page and e-commerce app development. Swift tech adaptation and a passion for continuous learning drive my approach
 
 <br>
 
