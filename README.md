@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN stack web development**
 
-- 📫 How to reach me **hasanzahid.bu@gmail.com** <br>
+- 📫 How to reach me **hasanzahid.bu@gmail.com** 
 
 
 <br>
@@ -36,7 +36,7 @@
 
 
 <p>
-<img align='left' width='47%' height='250px'  src="https://github-readme-stats.vercel.app/api?username=Zahid-Hasan-Shuvo&show_icons=true&theme=dracula" />
+<img align='left' width='47%' height='250px'  src="https://github-readme-stats.vercel.app/api?username=Zahid-Hasan-Shuvo&show_icons=true&theme=black" />
 <img align='left' width='47%' height='250px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahid-Hasan-Shuvo&layout=compact"/>
 </p>
 
