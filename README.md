@@ -1,10 +1,6 @@
-###  OMGGG! You are here! Welcome to my code library! I'm Zahid Hasan, a Full Stack Web Developer. I am the one who can turn a blank page into a fully working website!
+###  OMGGG! You are here! Welcome to my code library! I'm Zahid Hasan, a Full Stack Web Developer. I am the one who can turn a blank page into a fully working website! <br>
 
-
-
-
-
-
+<br>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
