@@ -37,7 +37,7 @@
 
 **`Github Stats:`**
 <p>
-<img align='left' width='45%' height='250px'  src="https://github-readme-stats.vercel.app/api?username=Zahid-Hasan-Shuvo&show_icons=true&theme=dracula" />
+<img align='left' width='42%' height='250px'  src="https://github-readme-stats.vercel.app/api?username=Zahid-Hasan-Shuvo&show_icons=true&theme=dracula" />
 <img align='left' width='47%' height='190px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahid-Hasan-Shuvo&layout=compact"/>
 </p>
 
