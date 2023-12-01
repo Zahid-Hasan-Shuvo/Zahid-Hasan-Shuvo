@@ -17,23 +17,16 @@
 - 📫 How to reach me **hasanzahid.bu@gmail.com** 
 
 
-<!-- Twitter -->
-<a href="https://twitter.com/zhshuvotw" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/ios/50/000000/twitter.png" alt="Twitter" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;
 
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/zahid-hasan-6a5315214" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/ios/50/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-</a>
 
 **`Connect with me:`**
-<p align="left">
-<a href="https://twitter.com/zhshuvotw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zhshuvotw" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zahid-hasan-6a5315214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahid-hasan-6a5315214" height="30" width="40" /></a>
-<a href="https://fb.com/zhshuvo6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zhshuvo6" height="30" width="40" /></a>
-<a href="https://instagram.com/zhshuvoig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zhshuvoig" height="30" width="40" /></a>
-</p>
+
+[![Twitter](https://img.shields.io/badge/Twitter-zhshuvotw-blue?style=flat&logo=twitter)](https://twitter.com/zhshuvotw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zahid-hasan-6a5315214-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zahid-hasan-6a5315214/)
+[![Facebook](https://img.shields.io/badge/Facebook-zhshuvo6-blue?style=flat&logo=facebook)](https://facebook.com/zhshuvo6)
+[![Instagram](https://img.shields.io/badge/Instagram-zhshuvotw-blue?style=flat&logo=instagram)](https://instagram.com/zhshuvotw)
+
+
 
 ---
 
