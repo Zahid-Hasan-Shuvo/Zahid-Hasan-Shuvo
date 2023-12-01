@@ -6,7 +6,7 @@ MERN-Stack Developer with a year's expertise in JavaScript and Node.js. Speciali
 
 <br>
 
-<img align="right" alt="Coding" width="332" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="327" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahid-hasan-shuvo&label=Profile%20views&color=0e75b6&style=flat" alt="zahid-hasan-shuvo" /> </p>
 
