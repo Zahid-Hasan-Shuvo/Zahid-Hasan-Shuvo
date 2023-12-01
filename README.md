@@ -1,10 +1,11 @@
 
-###  OMGGG! You are here! Welcome to my code library! I'm Zahid Hasan, a Full Stack Web Developer. I am the one who can turn a blank page into a fully working website! <br>
+###  OMGGG! You are here! Welcome to my code library! I'm Zahid Hasan, a MERN Stack Web Developer. I am the one who can turn a blank page into a fully working website! <br>
 
 <br>
 
-<img align="top" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zahid-hasan-shuvo&label=Profile%20views&color=0e75b6&style=flat" alt="zahid-hasan-shuvo" /> </p>
 
 - 🌱 I’m currently learning **Advance MERN stack web development**
 
