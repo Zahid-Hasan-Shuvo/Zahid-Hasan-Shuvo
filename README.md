@@ -34,7 +34,7 @@
 <br>📌 Connect with me:<be>
 #### I am open to discussing new opportunities, please reach out at hasanzahid.bu@gmail.com
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][(https://www.facebook.com/zhshuvo6]
+[![Facebook](https://img.shields.io/badge/https://www.facebook.com/zhshuvo6?style=for-the-badge&logo=facebook&logoColor=white)][facebook]
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)][mail]
