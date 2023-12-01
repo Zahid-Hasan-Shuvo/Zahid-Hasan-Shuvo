@@ -17,6 +17,16 @@
 - 📫 How to reach me **hasanzahid.bu@gmail.com** 
 
 
+<!-- Twitter -->
+<a href="https://twitter.com/zhshuvotw" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/ios/50/000000/twitter.png" alt="Twitter" width="40" height="40"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/zahid-hasan-6a5315214" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/ios/50/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+</a>
+
 **`Connect with me:`**
 <p align="left">
 <a href="https://twitter.com/zhshuvotw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zhshuvotw" height="30" width="40" /></a>
