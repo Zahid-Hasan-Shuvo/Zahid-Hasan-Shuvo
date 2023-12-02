@@ -24,6 +24,7 @@ MERN-Stack Developer with a year's expertise in JavaScript and Node.js. Speciali
 [![Twitter](https://img.shields.io/badge/Twitter--blue?style=flat&logo=twitter)](https://twitter.com/zhshuvotw) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zahid-hasan-6a5315214/)
 [![Facebook](https://img.shields.io/badge/Facebook--blue?style=flat&logo=facebook)](https://facebook.com/zhshuvo6)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/zhshuvo6)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/zhshuvoig)
 
 
