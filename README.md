@@ -14,7 +14,7 @@ MERN-Stack Developer with a year's expertise in JavaScript and Node.js. Speciali
 
 - 💬 Ask me about **MERN stack web development**
 
-- 📫 How to reach me **hasanzahid.bu@gmail.com** 
+- 📫 How to reach me **hasanzahidbu@gmail.com** 
 
 
 
@@ -23,7 +23,7 @@ MERN-Stack Developer with a year's expertise in JavaScript and Node.js. Speciali
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/zhshuvotw) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahid-hasan-6a5315214/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hasanzahid.bu@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hasanzahidbu@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/zhshuvo6)
 
 ---
