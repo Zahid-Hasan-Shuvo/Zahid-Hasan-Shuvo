@@ -2,7 +2,7 @@
 
 **`MERN stack Devoloper`**
 
-MERN-Stack Developer with a year's expertise in JavaScript and Node.js. Specialized in dynamic single-page and e-commerce app development. Swift tech adaptation and a passion for continuous learning drive my approach
+As a MERN Stack Web Developer, I possess a comprehensive skill set and expertise in building dynamic and robust web applications using React.Js, Node.Js, Express.Js, and MongoDB technologies. With deep knowledge and experience in each stack component, I excel at delivering high-quality software solutions that meet client’s requirements and exceed their expectations.
 
 <br>
 
